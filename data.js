@@ -19,7 +19,7 @@ const COMPONENT_NODES = [
   { data: { id: "PDSLink",            label: "Link",            depth: 1, status: "merged" } },
   { data: { id: "PDSLinkWrapper",     label: "LinkWrapper",     depth: 0, status: "merged" } },
   { data: { id: "PDSNavBar",          label: "NavBar",          depth: 2, status: "merged" } },
-  { data: { id: "PDSPageContentArea", label: "PageContentArea", depth: 0, status: "pr" } },
+  { data: { id: "PDSPageContentArea", label: "PageContentArea", depth: 0, status: "merged" } },
   { data: { id: "PDSPagination",      label: "Pagination",      depth: 3, status: "merged" } },
   { data: { id: "PDSSearchBar",       label: "SearchBar",       depth: 3, status: "merged" } },
   { data: { id: "PDSSeparator",       label: "Separator",       depth: 0, status: "merged" } },
